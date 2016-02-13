@@ -1,0 +1,9 @@
+Assignment 1 Part 2 
+
+Name: Aijia Liu
+
+ASU ID: 1208109171
+
+Description: Here I use a make file to compile my java program and a script file to execute the application which implements “./discovery” interface. Then all the hostnames will be printed out on the terminal. In my program, I already eliminated repeated hostnames and also IP addresses. 
+
+For each file, my program will call canRead function to check whether this file exists and the user is allowed to access it. If yes, my program will read the file line by line and search the hostname based on the specific format of each file. If not, the program will move to the next file until all the required files have been visited. 
